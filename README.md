@@ -27,5 +27,3 @@ User: Jose
 
 Pass: Enser
 
-Just For convinience... 
-Postman collections (version 2 and 2.1) are free to be donwloaded on the root of the repo.
